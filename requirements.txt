@@ -10,3 +10,7 @@ sqlalchemy
 psycopg2-binary
 alembic
 python-jose[cryptography]
+pydantic[email]
+requests
+pydantic_settings
+python-multipart
